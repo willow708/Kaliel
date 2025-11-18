@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Crafter",
+  "description": "An intelligent code generator that writes working code and scripts in any programming language, including Windows Command Prompt and PowerShell, based on your natural language prompts.",
+  "requestFramePermissions": []
+}
